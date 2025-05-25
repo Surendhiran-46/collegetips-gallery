@@ -56,7 +56,7 @@ npm start or npm run dev
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Vercel]([https://collegetips-gallery.vercel.app](https://collegetips-gallery-brown.vercel.app/))
+🔗 [View Live on Vercel](https://collegetips-gallery-brown.vercel.app/)
 
 ## 📤 Deployment
 
