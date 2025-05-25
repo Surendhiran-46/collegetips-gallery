@@ -54,7 +54,15 @@ npm start or npm run dev
 
 ---
 
-Built by 
+## 🚀 Live Demo
+
+🔗 [View Live on Vercel]([https://collegetips-gallery.vercel.app](https://collegetips-gallery-brown.vercel.app/))
+
+## 📤 Deployment
+
+Deployed on [Vercel](https://vercel.com/) for speed, global delivery, and easy CI/CD.
+
+### Built by 
 ## Surendhiran 
 for CollegeTips.in Internship 
 
