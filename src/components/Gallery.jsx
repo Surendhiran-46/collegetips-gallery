@@ -23,7 +23,7 @@ const Gallery = () => {
   return (
     <div className="p-4 max-w-7xl mx-auto">
       <h1
-        style={{ fontFamily: "'Audiowide'" }}
+        style={{ fontFamily: "" }}
         className="text-6xl font-extrabold text-center mb-10 bg-gradient-to-r from-emerald-400 via-green-500 to-lime-400 text- bg-clip-text drop-shadow-sm tracking-tight"
       >
         CollegeTips Gallery 📸

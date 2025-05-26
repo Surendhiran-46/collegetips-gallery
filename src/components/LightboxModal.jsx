@@ -47,8 +47,9 @@ const LightboxModal = ({ images, currentIndex, onClose }) => {
         <button
           className="absolute top-6 right-6 text-white bg-white/10 border border-white/20 p-2 rounded-full hover:bg-white/20 transition backdrop-blur-sm z-50"
           onClick={onClose}
+          aria-label="Close"
         >
-          <X size={25} />
+          <X size={24} />
         </button>
 
         {/* Prev */}
@@ -58,8 +59,9 @@ const LightboxModal = ({ images, currentIndex, onClose }) => {
             e.stopPropagation();
             prevImage();
           }}
+          aria-label="Previous"
         >
-          <ChevronLeft size={25} />
+          <ChevronLeft size={24} />
         </button>
 
         {/* Next */}
@@ -69,8 +71,9 @@ const LightboxModal = ({ images, currentIndex, onClose }) => {
             e.stopPropagation();
             nextImage();
           }}
+          aria-label="Next"
         >
-          <ChevronRight size={25} />
+          <ChevronRight size={24} />
         </button>
 
         {/* Modal Image */}
